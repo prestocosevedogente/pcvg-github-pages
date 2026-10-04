@@ -1,6 +1,6 @@
 # Presto Cose, Vedo Gente
 
-Sito ufficiale di Presto Cose, Vedo Gente, l’Oggettoteca di Modena.
+Sito ufficiale di Presto Cose, Vedo Gente - l’Oggettoteca di Modena.
 
 Il sito è realizzato in HTML, CSS e JavaScript vanilla ed è predisposto per la pubblicazione gratuita tramite GitHub Pages.
 
@@ -21,7 +21,6 @@ Il sito è realizzato in HTML, CSS e JavaScript vanilla ed è predisposto per la
 
 ## Struttura del progetto
 
-```text
 pcvg-github-pages/
 ├── index.html
 ├── catalogo-oggetti.html
